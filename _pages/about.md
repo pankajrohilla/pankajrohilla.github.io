@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: DSC_00582-min.jpg
+  image: Pankaj.jpg
   address:  
 
 
