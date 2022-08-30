@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 ---
 
 I am an Eckert Postdoc Fellow at the Bhamla Lab (and Prausnitz Lab) at the Department of Chemical and Biomolecular Engineering, Georgia Tech. 
-My research focuses on the development of medical devices (diagnostics and drug delivery) and hydrodynamics of (semi) aquatic organisms.
+My research focuses on the development of low-cost hardware for delivery of mRNA/DNA vaccines and interfacial hydrodynamics of (semi) aquatic organisms.
 
 [//]: # (  )
 
