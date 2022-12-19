@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Pankaj.jpg
+  image: Pankaj.JPG
   address:  
 
 
