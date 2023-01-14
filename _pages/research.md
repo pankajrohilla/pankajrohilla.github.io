@@ -2,8 +2,8 @@
 ---
 layout: About
 title: Research
-permalink: / 
-subtitle:   
+permalink: 
+subtitle: Drug Delivery, Fluid Dynamics, Organismal Biophysics
 
 
 
