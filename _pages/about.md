@@ -2,7 +2,7 @@
 layout: About
 title: About
 permalink: / 
-subtitle:   
+subtitle: Eckert Postdoc Fellow @ Georgia Tech 
 
 profile:
   align: right
