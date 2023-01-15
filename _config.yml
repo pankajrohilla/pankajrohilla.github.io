@@ -34,7 +34,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 850px
@@ -53,7 +53,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: pankajrohilla # payour GitHub user name
+github_username:   # payour GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: onlyrohilla # your Twitter handle
 linkedin_username: pankhrohilla # your LinkedIn user name
