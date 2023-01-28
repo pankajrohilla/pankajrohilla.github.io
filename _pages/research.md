@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-subtitle: Drug Delivery, Fluid Dynamics, Organismal Biophysics
+description: Drug Delivery, Fluid Dynamics, Organismal Biophysics
 nav: true
 ---
 
