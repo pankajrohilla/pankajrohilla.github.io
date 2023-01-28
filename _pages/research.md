@@ -3,6 +3,7 @@ layout: About
 title: Research
 permalink: /research/
 subtitle: Drug Delivery, Fluid Dynamics, Organismal Biophysics
+nav: true
 ---
 <!-- h 
 Every project has a beautiful feature showcase page.
