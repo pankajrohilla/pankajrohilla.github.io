@@ -10,12 +10,7 @@ nav: true
 
 Coming Soon...
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/Jet_injection.jpg
-    ---
+   ![research-pipeline](/assets/img/Jet_injection.jpg){:class="img-fluid mx-auto d-block" style="max-width:60%"}
 
 ## Organismal Biophysics
 
