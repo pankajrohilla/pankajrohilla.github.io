@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: page
 title: research
 permalink: /research/
 subtitle: Drug Delivery, Fluid Dynamics, Organismal Biophysics
