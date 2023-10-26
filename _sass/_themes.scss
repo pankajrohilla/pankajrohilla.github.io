@@ -19,11 +19,16 @@
     display : none;
   }
   .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
+    display: none;
   }
 }
+
+/*******************************************************************************
+ * Themes padding-left: 10px;
+    padding-top: 12px;
+    display : block;
+ ******************************************************************************/
+
 
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
