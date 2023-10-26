@@ -6,7 +6,7 @@ subtitle: Eckert Postdoc Fellow @ Georgia Tech
 
 profile:
   align: right
-  image: DSC_00582-min.jpg
+  image: DP_1.jpg
   address:  
 
 
