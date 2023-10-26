@@ -8,16 +8,20 @@ profile:
   align: right
   image: Asset_2.jpg
   address:  
+  image_circular: true
 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 ---
 
-I am an Eckert Postdoc Fellow at the Bhamla Lab (and Prausnitz Lab) at the Department of Chemical and Biomolecular Engineering, Georgia Tech. 
+I am an Eckert Postdoc Fellow at the [Bhamla Lab](https://bhamla.gatech.edu/) and [Prausnitz Lab](https://drugdelivery.chbe.gatech.edu/index.html) at the [Department of Chemical and Biomolecular Engineering, Georgia Tech](https://www.chbe.gatech.edu/). 
 My research focuses on the development of low-cost hardware for delivery of mRNA/DNA vaccines and interfacial hydrodynamics of (semi) aquatic organisms.
 
 [//]: # (  )
 
 [//]: # ( Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]http://reddit.com. You can put a picture in, too. The code is )
+
+
+
