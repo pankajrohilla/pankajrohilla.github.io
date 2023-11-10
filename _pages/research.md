@@ -17,4 +17,4 @@ At drug delivery front, I have worked on different modes of drug delivery includ
 
 Micron to metre scale organisms exhibit marvelous mechanisms and structures to perform unique functions. By studying these mechanisms, current engineering designs have potential of improvement. Bioinspiration and biomimicry has immensely benefited the science and engineering. Dueing my postdoc, I have worked on a variety of projects in the realm of organismal biophysics: from viscoelastic jetting in termites, feeding in flamingoes, to water walking insects. These organismal studies have inspired ideas for potential applications in additive manufacturing and drug delivery in addition to inspiring the designs of efficient amphibious microrobots. 
 
-![research-pipeline](/assets/img/JOrganismal_bio.png){:class="img-fluid mx-auto d-block" style="max-width:60%"}
+![research-pipeline](/assets/img/Organismal_bio.png){:class="img-fluid mx-auto d-block" style="max-width:60%"}
