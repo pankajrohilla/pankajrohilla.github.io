@@ -105,13 +105,14 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
-news_limit: 0
+
+news_limit: 2
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
