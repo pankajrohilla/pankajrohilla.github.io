@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Supercapacitors
+description: Charge transport in carbon electrodes
 img:
 importance: 3
 category: fun
