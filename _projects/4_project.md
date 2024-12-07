@@ -4,7 +4,7 @@ title: Supercapacitors
 description: Charge transport in carbon electrodes
 img:
 importance: 3
-category: fun
+category: Energy Storage
 ---
 
 Every project has a beautiful feature showcase page.
