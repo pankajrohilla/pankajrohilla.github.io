@@ -5,7 +5,7 @@ description: Low-cost devices for nucleic acids delivery
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Drug Delivery
 ---
 
 Project ePatch
