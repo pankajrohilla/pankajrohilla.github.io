@@ -4,7 +4,7 @@ title: Needle-free drug delivery
 description: Improving the delivery efficiency of jet injectors
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Drug Delivery
 giscus_comments: true
 ---
 
