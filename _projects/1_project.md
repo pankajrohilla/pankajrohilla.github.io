@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Biophysics
+title: Fluid Ejections in Nature
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Biophysics
 related_publications: true
 ---
 
