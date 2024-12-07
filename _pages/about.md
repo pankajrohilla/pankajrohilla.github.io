@@ -15,10 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Eckert Postdoc Fellow at the Bhamla Lab and the Prausnitz Lab, School of Chemical and Biomolecular Engineering, Georgia Tech. While one facet of my current research focuses on developing affordable devices for the intradermal delivery of nucleic acids for vaccines and therapeutics, the other explores the curiosity-driven organismal fluid dynamics, from tiny insects recapturing their vortices to humans mastering the science of creating the biggest splashes in water.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Georgia Tech, I was a Ph.D. candidate in the Marston Lab at the Department of Chemical Engineering, at Texas Tech University. My dissertation research was focused on studying the hydrodynamics of needle-free jet injections. Additionally, I worked on studying innovative techniques for generating high-speed micro-jets, investigated the fluid dynamics of drug delivery to the front of the eye and intradermal delivery via tattooing, developed synthetic skin models, and studied fluid-driven cracking in hydrogels.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+`Currently on the tenure-track faculty market`
 
 :round_pushpin: Atlanta, GA
