@@ -2,7 +2,7 @@
 layout: page
 title: Fluid Ejections in Nature
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/NFJI.jpg
 importance: 1
 category: Biophysics
 related_publications: true
