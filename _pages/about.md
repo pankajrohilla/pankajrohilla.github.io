@@ -26,6 +26,7 @@ Hello! I am an Eckert Postdoc Fellow at the Bhamla Lab and the Prausnitz Lab at 
 
 My doctoral research in the Marston Lab at Texas Tech focused on studying the hydrodynamics of needle-free jet injections - to enhance the delivery efficiency of jet injectors. Additionally, I worked on studying innovative techniques for generating high-speed micro-jets, investigated the fluid dynamics of drug delivery to the front of the eye and intradermal delivery via tattooing, developed synthetic skin models, and studied fluid-driven cracking in hydrogels.
 
+{% include announcement.html %}
 
 `Currently in the tenure-track faculty market`
 
