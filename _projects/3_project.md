@@ -1,9 +1,9 @@
 ---
 layout: page
 title: mRNA/DNA therapies \& vaccines 
-description: Low-cost devices for nucleic acids delivery 
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: Low-cost devices for nucleic acid delivery 
+img: assets/img/Nucleic_acids.jpg
+redirect:  
 importance: 3
 category: Drug Delivery
 ---
