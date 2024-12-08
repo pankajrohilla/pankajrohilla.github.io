@@ -2,7 +2,7 @@
 layout: page
 title: Supercapacitors
 description: Charge transport in carbon electrodes
-img:
+img: assets/img/supercapacitors.png
 importance: 3
 category: Energy Storage
 ---
