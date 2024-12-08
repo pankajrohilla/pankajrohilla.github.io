@@ -2,7 +2,7 @@
 layout: page
 title: Manu jumping 
 description: Creating large splashes in water
-img: assets/img/Manu.png
+img: assets/img/manu.png
 redirect:  
 importance: 1
 category: Fluid Dynamics
