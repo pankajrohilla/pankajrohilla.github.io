@@ -2,7 +2,7 @@
 layout: page
 title: Needle-free drug delivery
 description: Improving the delivery efficiency of jet injectors
-img: assets/img/NFJI.jpg
+img: assets/img/Nucleic_acids.jpg
 importance: 2
 category: Drug Delivery
 giscus_comments: true
