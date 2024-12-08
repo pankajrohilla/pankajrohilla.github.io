@@ -15,6 +15,8 @@ profile:
 social: true # includes social icons at the bottom of the page
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+announcement: >
+  Currently in the tenure-track faculty market.
 
 ---
 
@@ -28,7 +30,7 @@ My doctoral research in the Marston Lab at Texas Tech focused on studying the hy
 
 {% include announcement.html %}
 
-`Currently in the tenure-track faculty market`
+
 
 :round_pushpin: Atlanta, GA
 
